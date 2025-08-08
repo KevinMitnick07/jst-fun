@@ -1,30 +1,53 @@
-# Jst kidding app
+JST FUN 🎯
+Basic Details
+Team Name: ACHIVE
+Team Members
+Team Lead: RABEEH - MAJLIS ARTS AND SCIENCE COLLEGE PURAMANNUR
+Member 2: RISAN- MAJLIS ARTS AND SCIENCE COLLEGE PURAMANNUR
+Project Description
+“jst kidding” — Mallu Memes!
+A playful, single-page React app that brings iconic Malayalam movie comedy to life through cartoon-style actor faces, funny dialogues, wacky sound effects, and a comic-strip vibe. Tap, laugh, and relive legendary lines — no logins, just pure front-end fun!
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+The Problem (that doesn't exist)
+😅 The Problem (That Doesn’t Exist)
+No one asked for a cartoon grid of legendary Mallu actors delivering their funniest movie lines...
+But now that you’re here, don’t you kinda want it?
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/rabeehmasc-6982s-projects/v0-jst-kidding-app)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/BzlWmnfQRvm)
+We’re drowning in serious apps, productivity tools, and “life-changing” platforms.
+Where’s the pure nonsense? The joy? The bounce?
+Where’s the love for those iconic Malayalam one-liners that live rent-free in your head?
 
-## Overview
+The Solution (that nobody asked for)
+MADE WEB
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+Technical Details
+Technologies/Components Used
+For Software:
 
-## Deployment
+JAVA SCRIPT
+REACT
+V0
 
-Your project is live at:
+Implementation
+For Software:
 
-**[https://vercel.com/rabeehmasc-6982s-projects/v0-jst-kidding-app](https://vercel.com/rabeehmasc-6982s-projects/v0-jst-kidding-app)**
+Installation
+NPM INSTALL
 
-## Build your app
+Run
+NPM RUN DEV
 
-Continue building your app on:
+Project Demo
+Video
+(https://v0-jst-kidding-app.vercel.app/) Explain what the video demonstrates
 
-**[https://v0.dev/chat/projects/BzlWmnfQRvm](https://v0.dev/chat/projects/BzlWmnfQRvm)**
+Additional Demos
+[Add any extra demo materials/links]
 
-## How It Works
+Team Contributions
+RISAN: THANKS
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Made with ❤️ at TinkerHub Useless Projects
+
+Static Badge Static Badge
+
